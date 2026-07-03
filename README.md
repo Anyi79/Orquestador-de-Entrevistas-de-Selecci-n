@@ -1,7 +1,7 @@
 # Orquestador-de-Entrevistas-de-Selecci-n
-Automatización integral del proceso de selección desde la recepción del CV , la concertación de entrevista hasta la puntuación final del candidato mediante Microsoft Power Automate Cloud y el ecosistema Microsoft.
+Automatización integral del proceso de selección desde la recepción del currículum , la concertación de entrevista hasta la evaluación final del candidato mediante Microsoft Power Automate Cloud y las aplicaciones del ecosistema Microsoft.
 
-Esta solución fue desarrollada como proyecto colaborativo durante mi formación en automatización de procesos. Realizado a través de una metodología colaborativa (Mob Programing), participando todo el equipo en el análisis, diseño, desarrollo y validación de esta solución.
+Esta solución fue desarrollada como proyecto colaborativo durante mi formación en automatización de procesos. Realizado a través de una metodología colaborativa (Mob Programing), en la que todo el equipo participó en el análisis, diseño, desarrollo y validación de esta solución.
 
 Mi contribución
 
