@@ -5,7 +5,7 @@ Esta solución fue desarrollada como proyecto colaborativo durante mi formación
 
 Mi contribución
 
-Durante el proyecto mis principales responsabilidades se centraron principalmente en:
+Durante el proyecto mis principales responsabilidades se centraron en:
 
 * Propuesta y análisis de ideas orientadas a resolver necesidades reales de negocio.
 * Evaluación y selección de la solución final desarrollada.
