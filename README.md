@@ -39,3 +39,5 @@ Este enfoque modular permite construir procesos más organizados, facilitar futu
 ## Visión general de la solución
 
 ![Visión general de la solución](assets/arquitectura-funcional.png)
+
+Esta automatización coordina la interacción entre el candidato  y el departamento de RRHH a través de las aplicaciones del ecosistema de Microsoft mediante un flujo automatizado que gestiona el proceso de selección.
