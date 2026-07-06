@@ -34,3 +34,8 @@ Dicha solución aprovecha la integración de diferentes aplicaciones del ecosist
 Con el fin de facilitar el mantenimiento y escalabilidad, la solución se estructuró en módulos independientes que trabajan de forma coordinada. Cada módulo responde a un evento o cambio de estado específico, permitiendo ejecutar únicamente las acciones necesarias en cada fase del proceso.
 
 Este enfoque modular permite construir procesos más organizados, facilitar futuras ampliaciones, así como adaptar dicha solución a las necesidades de diferentes organizaciones sin modificar el resto de componentes necesariamente.
+
+
+## Visión general de la solución
+
+![Visión general de la solución](assets/arquitectura-funcional.png)
