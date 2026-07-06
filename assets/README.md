@@ -1,1 +1,1 @@
-Imágenes utilizadas en el README.
+Visión general de la solución.
