@@ -41,3 +41,11 @@ Este enfoque modular permite construir procesos más organizados, facilitar futu
 ![Visión general de la solución](assets/arquitectura-funcional.png)
 
 Esta automatización coordina la interacción entre el candidato  y el departamento de RRHH a través de las aplicaciones del ecosistema de Microsoft mediante un flujo automatizado que gestiona el proceso de selección.
+
+
+## Flujo funcional del proceso
+
+El siguiente flujo muestras las etapas principales del proceso automatizado de selección, desde la recepción de la candidatura hasta el envío del informe final al departamente de RRHH. La solución propuesta combina tareas automatizadas, intervenciones manuales y procesos recurrentes para agilizar la gestión de las candidaturas y facilitar la toma de decisiones.
+
+
+![Flujo funcional del proceso](assets/Flujo funcional.png
