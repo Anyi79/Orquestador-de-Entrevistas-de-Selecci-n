@@ -48,4 +48,4 @@ Esta automatización coordina la interacción entre el candidato  y el departame
 El siguiente flujo muestras las etapas principales del proceso automatizado de selección, desde la recepción de la candidatura hasta el envío del informe final al departamente de RRHH. La solución propuesta combina tareas automatizadas, intervenciones manuales y procesos recurrentes para agilizar la gestión de las candidaturas y facilitar la toma de decisiones.
 
 
-![Flujo funcional del proceso](assets/flujo-funcional.png).
+![Flujo funcional del proceso](assets/Flujo funcional.png).
