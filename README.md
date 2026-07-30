@@ -13,16 +13,16 @@ Durante el proyecto mis principales responsabilidades se centraron en:
 * Revisión funcional del documento PDD elaborado por el equipo.
 * Preparación y participación en exposición grupal de la presentación final del proyecto ante el tribunal.
 
-Esta experiencia me ha permitido consolidar los conocimientos en las técnologías utilizadas , pero sobre todo , detectar las necesidades reales y comprender cómo las automatizaciones pueden ayudar a optimizar procesos, contribuir a mejorar la productividad y la eficiencia de las empresas, así como, permitir que los empleados dediquen más tiempo a actividades de mayor valor.
+Esta experiencia me ha permitido consolidar los conocimientos en las tecnologías utilizadas , pero sobre todo , detectar las necesidades reales y comprender cómo las automatizaciones pueden ayudar a optimizar procesos, contribuir a mejorar la productividad y la eficiencia de las empresas, así como, permitir que los empleados dediquen más tiempo a actividades de mayor valor.
 
 
 El reto
 
-Los departamentos de Recursos Humamos gestionan diariamente una cantidad considerables de candidaturas que necesitan una revisión manual, además de coordinación entre distintas herramientas y un seguimiento constante durante todo el proceso de selección.
+Los departamentos de Recursos Humanos gestionan diariamente una cantidad considerables de candidaturas que necesitan una revisión manual, además de coordinación entre distintas herramientas y un seguimiento constante durante todo el proceso de selección.
 
 Estas tareas, además de consumir una parte importante del tiempo por parte de personal, incrementan el riesgo de cometer errores, retrasos y falta de trazabilidad.
 
-El objetivo de esta solución fue diseñar una automatización que permitiese reducir la carga de trabajo administrativo, mejorar el seguimiento de las candidaturas y facilitar la toma de decisiones, permitiendo al personal de Recursos Humanos a invertir más tiempo y esfuerzo en el contacto con las personas y menos en las tareas repetitivas.
+El objetivo de esta solución fue diseñar una automatización que permitiese reducir la carga de trabajo administrativo, mejorar el seguimiento de las candidaturas y facilitar la toma de decisiones, permitiendo al personal de Recursos Humanos invertir más tiempo y esfuerzo en el contacto con las personas y menos en las tareas repetitivas.
 
 
 La solución propuesta
@@ -45,7 +45,7 @@ Esta automatización coordina la interacción entre el candidato  y el departame
 
 ## Flujo funcional del proceso
 
-El siguiente flujo muestras las etapas principales del proceso automatizado de selección, desde la recepción de la candidatura hasta el envío del informe final al departamente de RRHH. La solución propuesta combina tareas automatizadas, intervenciones manuales y procesos recurrentes para agilizar la gestión de las candidaturas y facilitar la toma de decisiones.
+El siguiente flujo muestra las etapas principales del proceso automatizado de selección, desde la recepción de la candidatura hasta el envío del informe final al departamento de RRHH. La solución propuesta combina tareas automatizadas, intervenciones manuales y procesos recurrentes para agilizar la gestión de las candidaturas y facilitar la toma de decisiones.
 
 
 ![Flujo funcional del proceso](assets/flujo-funcional.png).
